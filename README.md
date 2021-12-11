@@ -6,4 +6,4 @@ The company has provided you with a dataset that includes details about each pro
 
 You will need to present your findings to the head of rentals, who has no technical data science background.
 
-The data you will use for this analysis can be accessed here: "data/rentals.csv"
+The data you will use for this analysis can be accessed here: "Data/rentals.csv"
